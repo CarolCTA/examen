@@ -1,0 +1,87 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  text-align:center;
+}
+
+#primero, #tabla1{
+	
+	float:left;
+	
+}
+
+#primero {
+  background-color: blue;
+  width: 25%;
+  color: yellow;
+  font-size: 14px;
+  padding: 14px;
+  margin-left: 80px;
+  
+}
+
+#tabla1 {
+  background-color: cadetblue;
+  width: 29%;
+  margin-left: 70px;
+  padding: 5px;
+  
+}
+
+#secundario{
+	
+	float:left;
+	
+}
+
+#tabla2, #enlace, #actividades {
+	
+	float:left;
+	margin-top: 70px;
+	margin-left: -490px;
+}
+
+#enlace{
+	margin-left: -168px;
+}
+
+#tabla2 {
+	font-weight: strong;
+  background-color: red;
+  width: 60%;
+
+}
+
+#actividades{
+	background:green;
+	margin-left: 10px;
+	width: 70%;
+	font-size: 20px;
+}
+
+.margen2{
+	padding: 15px;
+	background-color:green;
+	border: 15px dotted yellow;
+	margin-right:20%;
+	margin-left: -11%;
+}
+#li15 {
+	color: red;
+	font-size: 15px;
+}
+
+#li16 {
+	color: purple;
+	font-size: 15px;
+}
+
+#li17 {
+	font-size: 15px;
+}
+
+#li18 {
+	font-size: 15px;
+}
